@@ -107,7 +107,7 @@
 						</bean>
 					</list>
 				</entry>
-				<entry key="Staging">
+				<entry key="ProdTest">
 					<list>
 						<bean class="com.interwoven.livesite.deployment.model.DeploymentTarget">
 							<property name="targetName" value="LiveSiteProdTestRuntime"/>
